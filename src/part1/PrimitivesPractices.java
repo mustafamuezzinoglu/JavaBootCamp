@@ -14,7 +14,9 @@ public class PrimitivesPractices {
         System.out.println(b); //it gives double 10.0
         System.out.println(z); //it gives double 10.0
 
-        //todo;
+        long c = 200;
+
+       short d = (short)c;
 
 
 
